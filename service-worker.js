@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gol-simulator/precache-manifest.9302d4bdeaaf717f1ccb8d27fe698ad0.js"
+  "/gol-simulator/precache-manifest.02f86472b35ccca61e0b5478691d8dad.js"
 );
 
 self.addEventListener('message', (event) => {

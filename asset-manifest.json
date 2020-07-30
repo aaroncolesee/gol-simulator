@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gol-simulator/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/gol-simulator/static/js/main.3eba6f38.chunk.js",
-    "main.js.map": "/gol-simulator/static/js/main.3eba6f38.chunk.js.map",
+    "main.js": "/gol-simulator/static/js/main.94b18372.chunk.js",
+    "main.js.map": "/gol-simulator/static/js/main.94b18372.chunk.js.map",
     "runtime-main.js": "/gol-simulator/static/js/runtime-main.84656c32.js",
     "runtime-main.js.map": "/gol-simulator/static/js/runtime-main.84656c32.js.map",
     "static/js/2.42bb1d06.chunk.js": "/gol-simulator/static/js/2.42bb1d06.chunk.js",
     "static/js/2.42bb1d06.chunk.js.map": "/gol-simulator/static/js/2.42bb1d06.chunk.js.map",
     "index.html": "/gol-simulator/index.html",
-    "precache-manifest.9302d4bdeaaf717f1ccb8d27fe698ad0.js": "/gol-simulator/precache-manifest.9302d4bdeaaf717f1ccb8d27fe698ad0.js",
+    "precache-manifest.02f86472b35ccca61e0b5478691d8dad.js": "/gol-simulator/precache-manifest.02f86472b35ccca61e0b5478691d8dad.js",
     "service-worker.js": "/gol-simulator/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/gol-simulator/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.42bb1d06.chunk.js.LICENSE.txt": "/gol-simulator/static/js/2.42bb1d06.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.84656c32.js",
     "static/js/2.42bb1d06.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.3eba6f38.chunk.js"
+    "static/js/main.94b18372.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ed6c60d777a759a696605697fabb78d",
+    "revision": "ce2357c7b0e58791bd2e08adcda685d6",
     "url": "/gol-simulator/index.html"
   },
   {
-    "revision": "adb9889afe1f9887e528",
+    "revision": "1739a0d2a9deee31c88e",
     "url": "/gol-simulator/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gol-simulator/static/js/2.42bb1d06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "adb9889afe1f9887e528",
-    "url": "/gol-simulator/static/js/main.3eba6f38.chunk.js"
+    "revision": "1739a0d2a9deee31c88e",
+    "url": "/gol-simulator/static/js/main.94b18372.chunk.js"
   },
   {
     "revision": "1cce2dd21e3de6cb873f",
