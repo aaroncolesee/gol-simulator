@@ -75,8 +75,9 @@ function App() {
   return (
     <div
       style={{
+        height: "100vh",
+        backgroundColor: "#31bcff",
         display: "grid",
-        gridTemplate: "auto 1fr auto",
         placeItems: "center",
       }}
     >
@@ -91,7 +92,9 @@ function App() {
       <div
         className="board"
         style={{
-          margin: "20px 0 20px 0",
+          padding: "1em",
+          borderRadius: "1em",
+          backgroundColor: "white",
           display: "grid",
           gridTemplateColumns: `repeat(${numCols}, 20px)`,
         }}
@@ -120,14 +123,14 @@ function App() {
               style={{
                 height: 20,
                 width: 20,
-                backgroundColor: grid[x][y] ? "turquoise" : undefined,
+                backgroundColor: grid[x][y] ? "#ff7431" : undefined,
                 border: "solid 1px black",
               }}
             />
           ))
         )}
       </div>
-      <div className="controls">
+      <div className="controls" style={{ display: "flow" }}>
         <div className="slide-container">
           <input
             type="range"
@@ -149,6 +152,12 @@ function App() {
           </datalist>
         </div>
         <button
+          style={{
+            borderRadius: "2em",
+            padding: "0.3em 1.2em",
+            margin: "0 0.3em 0.3em 0",
+            transition: "all 0.2s",
+          }}
           onClick={() => {
             setRunning(false);
             setGrid(generateGrid());
@@ -157,6 +166,12 @@ function App() {
           Reset
         </button>
         <button
+          style={{
+            borderRadius: "2em",
+            padding: "0.3em 1.2em",
+            margin: "0 0.3em 0.3em 0",
+            transition: "all 0.2s",
+          }}
           onClick={() => {
             setRunning(!running);
             if (!running) {
